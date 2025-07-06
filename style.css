@@ -1,0 +1,23 @@
+*{
+  font-size: helvetica;
+}
+.blue{
+  color: blue;
+}
+
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+  color: green;
+}
+.red{
+  color: #748873;
+}
+#header{
+  background-color: #a3fa9f;
+  text-align: center;
+  font-size:large;
+}
+
+/* Write your CSS below, don't change the rules above. */
