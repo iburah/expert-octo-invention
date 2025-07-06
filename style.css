@@ -10,6 +10,7 @@ ol {
   margin-top: -20px;
   list-style-position: inside;
   color: green;
+  font-weight: 500;
 }
 .red{
   color: #748873;
